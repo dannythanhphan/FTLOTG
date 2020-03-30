@@ -1,0 +1,494 @@
+{
+    "name": "game",
+    "children": [
+        {
+            "name": "Fighting",
+            "children": [
+                {
+                    "name": "Super Smash Bros.",
+                    "children": [
+                        { 
+                            "name": "Super Smash Bros. Melee", 
+                            "children": [
+                                { "earnings": "$3,178,744.00" },
+                                { "tournaments": 2602 },
+                                { "rank": 29 },
+                                { "players": 1874 }
+                            ]
+                        },
+                        {
+                            "name": "Super Smash Bros. for Wii U",
+                            "children": [
+                                { "earnings": "$1,511,976.47" },
+                                { "tournaments": 1022},
+                                { "rank": 46 },
+                                { "players": 1264 }
+                            ]
+                        },
+                        {
+                            "name": "Super Smash Bros. Ultimate",
+                            "children": [
+                                { "earnings": "$1,247,178.78" },
+                                { "tournaments": 1102 },
+                                { "rank": 52 },
+                                { "players": 1809 }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Street Fighter",
+                    "children": [
+                        { 
+                            "name": "Street Fighter V", 
+                            "children": [
+                                { "earnings": "$2,202,726.43" },
+                                { "tournaments": 120 },
+                                { "rank": 36 },
+                                { "players": 233 }
+                            ]
+                        },
+                        {
+                            "name": "Street Fighter V: Arcade Edition",
+                            "children": [
+                                { "earnings": "$2,017,135.95" },
+                                { "tournaments": 100 },
+                                { "rank": 40 },
+                                { "players": 229 }
+                            ]
+                        },
+                        {
+                            "name": "Ultra Street Fighter IV",
+                            "children": [
+                                { "earnings": "$816,673.46" },
+                                { "tournaments": 227 },
+                                { "rank": 69 },
+                                { "players": 226 }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tekken",
+                    "children": [
+                        { 
+                            "name": "Tekken 7", 
+                            "children": [
+                                { "earnings": "$1,576,414.05" },
+                                { "tournaments": 193 },
+                                { "rank": 43 },
+                                { "players": 384 }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Mortal Kombat",
+                    "children": [
+                        { 
+                            "name": "Mortal Kombat X", 
+                            "children": [
+                                { "earnings": "$523,532.42" },
+                                { "tournaments": 62 },
+                                { "rank": 82 },
+                                { "players": 100 }
+                            ]
+                        },
+                        {
+                            "name": "Mortal Kombat 11",
+                            "children": [
+                                { "earnings": "$392,602.33" },
+                                { "tournaments": 37 },
+                                { "rank": 97 },
+                                { "players": 158 }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dragon Ball",
+                    "children": [
+                        { 
+                            "name": "Dragon Ball FighterZ", 
+                            "children": [
+                                { "earnings": "$337,985.40" },
+                                { "tournaments": 73 },
+                                { "rank": "sub-100" },
+                                { "players": 159 }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "First Person Shooter",
+            "children": [
+                {
+                    "name": "Call of Duty",
+                    "children": [
+                        { 
+                            "name": "Call of Duty: Black Ops 4", 
+                            "children": [
+                                { "earnings": "$7,261,267.00" },
+                                { "tournaments": 80 },
+                                { "rank": 16 },
+                                { "players": 423 }
+                            ]
+                        },
+                        { 
+                            "name": "Call of Duty: World War II", 
+                            "children": [
+                                { "earnings": "$4,555,948.24" },
+                                { "tournaments": 62 },
+                                { "rank": 22 },
+                                { "players": 256 }
+                            ]
+                        },
+                        { 
+                            "name": "Call of Duty: Infinity Warfare", 
+                            "children": [
+                                { "earnings": "$4,151,666.26" },
+                                { "tournaments": 75 },
+                                { "rank": 23 },
+                                { "players": 311 }
+                            ]
+                        },
+                        { 
+                            "name": "Call of Duty: Black Ops III", 
+                            "children": [
+                                { "earnings": "$3,939,783.29" },
+                                { "tournaments": 78 },
+                                { "rank": 24 },
+                                { "players": 420 }
+                            ]
+                        },
+                        { 
+                            "name": "Call of Duty: Advanced Warfare", 
+                            "children": [
+                                { "earnings": "$2,606,816.56" },
+                                { "tournaments": 403 },
+                                { "rank": 34 },
+                                { "players": 776 }
+                            ]
+                        },
+                        { 
+                            "name": "Call of Duty: Modern Warfare", 
+                            "children": [
+                                { "earnings": "$938,500.00" },
+                                { "tournaments": 19 },
+                                { "rank": 64 },
+                                { "players": 210 }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Counter-Strike",
+                    "children": [
+                        { 
+                            "name": "Counter-Strike: Global Offensive", 
+                            "children": [
+                                { "earnings": "$93,083,942.43" },
+                                { "tournaments": 4812 },
+                                { "rank": 2 },
+                                { "players": 12640 }
+                            ]
+                        },
+                        { 
+                            "name": "Counter-Strike", 
+                            "children": [
+                                { "earnings": "$13,484,561.80" },
+                                { "tournaments": 989 },
+                                { "rank": 11 },
+                                { "players": 4086 }
+                            ]
+                        },
+                        { 
+                            "name": "Counter-Strike: Source", 
+                            "children": [
+                                { "earnings": "$3,114,703.89" },
+                                { "tournaments": 332 },
+                                { "rank": 30 },
+                                { "players": 1498 }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Halo",
+                    "children": [
+                        { 
+                            "name": "Halo 5: Guardians", 
+                            "children": [
+                                { "earnings": "$7,071,480.97" },
+                                { "tournaments": 75 },
+                                { "rank": 17 },
+                                { "players": 232 }
+                            ]
+                        },
+                        { 
+                            "name": "Halo 3", 
+                            "children": [
+                                { "earnings": "$2,158,079.40" },
+                                { "tournaments": 41 },
+                                { "rank": 38 },
+                                { "players": 210 }
+                            ]
+                        },
+                        { 
+                            "name": "Halo 2", 
+                            "children": [
+                                { "earnings": "$1,489,362.47" },
+                                { "tournaments": 71 },
+                                { "rank": 47 },
+                                { "players": 119 }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Overwatch",
+                    "children": [
+                        { "earnings": "$21,698,821.28" },
+                        { "tournaments": 734 },
+                        { "rank": 7 },
+                        { "players": 3481 }
+                    ]
+                },
+                {
+                    "name": "Rainbow Six Siege",
+                    "children": [
+                        { "earnings": "$11,160,764.49" },
+                        { "tournaments": 207 },
+                        { "rank": 12 },
+                        { "players": 1378 }
+                    ]
+                },
+                {
+                    "name": "CrossFire",
+                    "children": [
+                        { "earnings": "$5,890,458.50" },
+                        { "tournaments": 304 },
+                        { "rank": 18 },
+                        { "players": 624 }
+                    ]
+                },
+                {
+                    "name": "Gears of War 4",
+                    "children": [
+                        { "earnings": "$3,087,285.00" },
+                        { "tournaments": 41 },
+                        { "rank": 31 },
+                        { "players": 135 }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Battle Royale",
+            "children": [
+                {
+                    "name": "Fortnite",
+                    "children": [
+                        { "earnings": "$84,475,824.64" },
+                        { "tournaments": 524 },
+                        { "rank": 3 },
+                        { "players": 4342 }
+                    ]
+                },
+                {
+                    "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+                    "children": [
+                        { "earnings": "$22,562,816.62" },
+                        { "tournaments": 257 },
+                        { "rank": 6 },
+                        { "players": 2527 }
+                    ]
+                },
+                {
+                    "name": "Apex Legends",
+                    "children": [
+                        { "earnings": "$2,940,889.68" },
+                        { "tournaments": 82 },
+                        { "rank": 32 },
+                        { "players": 701 }
+                    ]
+                },
+                {
+                    "name": "H1Z1",
+                    "children": [
+                        { "earnings": "$2,067,122.00" },
+                        { "tournaments": 13 },
+                        { "rank": 39 },
+                        { "players": 119 }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Multiplayer Online Battle Arena (MOBA)",
+            "children": [
+                {
+                    "name": "Dota 2",
+                    "children": [
+                        { "earnings": "$222,176,590.71" },
+                        { "tournaments": 1331 },
+                        { "rank": 1 },
+                        { "players": 3581 }
+                    ]
+                },
+                {
+                    "name": "League of Legends",
+                    "children": [
+                        { "earnings": "$73,572,368.24" },
+                        { "tournaments": 2409 },
+                        { "rank": 4 },
+                        { "players": 6834 }
+                    ]
+                },
+                {
+                    "name": "Heroes of the Storm",
+                    "children": [
+                        { "earnings": "$18,141,257.92" },
+                        { "tournaments": 456 },
+                        { "rank": 9 },
+                        { "players": 1200 }
+                    ]
+                },
+                {
+                    "name": "Smite",
+                    "children": [
+                        { "earnings": "$8,640,112.75" },
+                        { "tournaments": 95 },
+                        { "rank": 13 },
+                        { "players": 522 }
+                    ]
+                },
+                {
+                    "name": "Arena of Valor",
+                    "children": [
+                        { "earnings": "$14,247,834.22" },
+                        { "tournaments": 48 },
+                        { "rank": 10 },
+                        { "players": 525 }
+                    ]
+                },
+                {
+                    "name": "Paladins",
+                    "children": [
+                        { "earnings": "$1,530,026.63" },
+                        { "tournaments": 30 },
+                        { "rank": 45 },
+                        { "players": 188 }
+                    ]
+                },
+                {
+                    "name": "Defense of the Ancients",
+                    "children": [
+                        { "earnings": "$857,420.65" },
+                        { "tournaments": 94 },
+                        { "rank": 65 },
+                        { "players": 460 }
+                    ]
+                },
+                {
+                    "name": "Heroes of Newerth",
+                    "children": [
+                        { "earnings": "$2,856,206.56" },
+                        { "tournaments": 368 },
+                        { "rank": 33 },
+                        { "players": 807 }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Real-time Strategy",
+            "children": [
+                {
+                    "name": "StarCraft II",
+                    "children": [
+                        { "earnings": "$32,737,447.08" },
+                        { "tournaments": 5731 },
+                        { "rank": 5 },
+                        { "players": 2025 }
+                    ]
+                },
+                {
+                    "name": "Age of Empires II",
+                    "children": [
+                        { "earnings": "$1,303,345.45" },
+                        { "tournaments": 479 },
+                        { "rank": 51 },
+                        { "players": 800 }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Digital Collectible Card Game",
+            "children": [
+                {
+                    "name": "Gwent",
+                    "children": [
+                        { "earnings": "$769,557.17" },
+                        { "tournaments": 107 },
+                        { "rank": 71 },
+                        { "players": 310 }
+                    ]
+                },
+                {
+                    "name": "Shadowverse",
+                    "children": [
+                        { "earnings": "$3,211,177.09" },
+                        { "tournaments": 42 },
+                        { "rank": 28 },
+                        { "players": 239 }
+                    ]
+                },
+                {
+                    "name": "Magic: The Gathering Arena",
+                    "children": [
+                        { "earnings": "$5,412,000.00" },
+                        { "tournaments": 35 },
+                        { "rank": 20 },
+                        { "players": 225 }
+                    ]
+                },
+                {
+                    "name": "Hearthstone",
+                    "children": [
+                        { "earnings": "$20,911,086.92" },
+                        { "tournaments": 861 },
+                        { "rank": 8 },
+                        { "players": 2331 }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Massively Multiplayer Online (MMO)",
+            "children": [
+                {
+                    "name": "World of Warcraft",
+                    "children": [
+                        { "earnings": "$4,957,837.61" },
+                        { "tournaments": 118 },
+                        { "rank": 21 },
+                        { "players": 413 }
+                    ]
+                },
+                {
+                    "name": "World of Tanks",
+                    "children": [
+                        { "earnings": "$3,656,496.59" },
+                        { "tournaments": 50 },
+                        { "rank": 26 },
+                        { "players": 403 }
+                    ]
+                }
+            ]
+        }
+    ]
+}
