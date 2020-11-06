@@ -1,0 +1,838 @@
+{
+    "fighting": [
+        { 
+            "name": "ARMS", 
+            "earnings": 18248.09
+        },
+        { 
+            "name": "Attack on Titan Tribute Game", 
+            "earnings": 108650.00
+        },
+        { 
+            "name": "BlazBlue: Central Fiction", 
+            "earnings": 78879.26
+        },
+        { 
+            "name": "BlazBlue: Chronophantasma", 
+            "earnings": 37020.58
+        },
+        { 
+            "name": "BlazBlue: Chronophantasma Extend", 
+            "earnings": 3178744.00
+        },
+        { 
+            "name": "BlazBlue: Cross Tag Battle", 
+            "earnings": 82800.03
+        },
+        { 
+            "name": "Brawlhalla", 
+            "earnings": 1159994.09
+        },
+        { 
+            "name": "Capcom vs. SNK 2", 
+            "earnings": 24186.79
+        },
+        { 
+            "name": "Dead or Alive 4", 
+            "earnings": 497745.31
+        },
+        { 
+            "name": "Dead or Alive 5: Last Round", 
+            "earnings": 8163.82
+        },
+        { 
+            "name": "Dead or Alive 6", 
+            "earnings": 64232.54
+        },
+        { 
+            "name": "Dengeki Bunko: Fighting Climax Ignition", 
+            "earnings": 2852.80
+        },
+        { 
+            "name": "Dragon Ball FighterZ", 
+            "earnings": 337985.40
+        },
+        { 
+            "name": "Guilty Gear Xrd -REVELATOR-", 
+            "earnings": 36437.43
+        },
+        { 
+            "name": "Guilty Gear Xrd -SIGN-", 
+            "earnings": 37445.66
+        },
+        { 
+            "name": "Guilty Gear Xrd REV 2", 
+            "earnings": 116634.70
+        },
+        { 
+            "name": "Guilty Gear XX Accent Core Plus R", 
+            "earnings": 4640.00
+        },
+        { 
+            "name": "Injustice 2", 
+            "earnings": 835742.83
+        },
+        { 
+            "name": "Injustice: Gods Among Us", 
+            "earnings": 35176.89
+        },
+        { 
+            "name": "Killer Instinct (2013)", 
+            "earnings": 224466.96
+        },
+        { 
+            "name": "King of Fighters XIII", 
+            "earnings": 44724.28
+        },
+        { 
+            "name": "King of Fighters XIV", 
+            "earnings": 72902.09
+        },
+        { 
+            "name": "Lethal League Blaze", 
+            "earnings": 5343.92
+        },
+        { 
+            "name": "Marvel vs. Capcom 2", 
+            "earnings": 39060.00
+        },
+        { 
+            "name": "Marvel vs. Capcom 3", 
+            "earnings": 22343.62
+        },
+        { 
+            "name": "Marvel vs. Capcom: Infinite", 
+            "earnings": 42482.12
+        },
+        { 
+            "name": "Melty Blood: Actress Again Current Code", 
+            "earnings": 8587.76
+        },
+        { 
+            "name": "Mortal Kombat 11", 
+            "earnings": 392602.33
+        },
+        { 
+            "name": "Mortal Kombat 9", 
+            "earnings": 136891.67
+        },
+        { 
+            "name": "Mortal Kombat X", 
+            "earnings": 523532.42
+        },
+        { 
+            "name": "Mortal Kombat XL", 
+            "earnings": 129203.79
+        },
+        { 
+            "name": "Persona 4 Arena", 
+            "earnings": 6336.63
+        },
+        { 
+            "name": "Persona 4 Arena Ultimax", 
+            "earnings": 18828.16
+        },
+        { 
+            "name": "Pokken Tournament", 
+            "earnings": 77016.66
+        },
+        { 
+            "name": "Pokken Tournament DX", 
+            "earnings": 20275.40
+        },
+        { 
+            "name": "Project M", 
+            "earnings": 205292.09
+        },
+        { 
+            "name": "Rivals of Aether", 
+            "earnings": 37787.00
+        },
+        { 
+            "name": "Sailor Moon S", 
+            "earnings": 3201.19
+        },
+        { 
+            "name": "Samurai Showdown (2019)", 
+            "earnings": 68009.91
+        },
+        { 
+            "name": "Skullgirls 2nd Encore", 
+            "earnings": 18321.00
+        },
+        { 
+            "name": "Skullgirls Encore", 
+            "earnings": 9155.40
+        },
+        { 
+            "name": "Soul Calibur V", 
+            "earnings": 60008.54
+        },
+        { 
+            "name": "Soul Calibur VI", 
+            "earnings": 109895.21
+        },
+        { 
+            "name": "Super Smash Bros. Melee", 
+            "earnings": 3178744.00
+        },
+        {
+            "name": "Super Smash Bros. for Wii U",
+            "earnings": 1511976.47
+        },
+        {
+            "name": "Super Smash Bros. Ultimate",
+            "earnings": 1247178.78
+        },
+        {
+            "name": "Super Smash Bros. Brawl",
+            "earnings": 246715.83
+        },
+        {
+            "name": "Super Smash Bros.",
+            "earnings": 68082.81
+        },
+        { 
+            "name": "Street Fighter V", 
+            "earnings": 2202726.43
+        },
+        {
+            "name": "Street Fighter V: Arcade Edition",
+            "earnings": 2017135.95
+        },
+        {
+            "name": "Ultra Street Fighter IV",
+            "earnings": 816673.46
+        },
+        {
+            "name": "Street Fighter III: 3rd Strike",
+            "earnings": 49378.86
+        },
+        {
+            "name": "Street Fighter IV",
+            "earnings": 7938.22
+        },
+        {
+            "name": "Street Fighter X Tekken",
+            "earnings": 84090.64
+        },
+        {
+            "name": "Tekken 6",
+            "earnings": 119874.64
+        },
+        {
+            "name": "Tekken 7",
+            "earnings": 1687721.25
+        },
+        {
+            "name": "Tekken Tag Tournament 2",
+            "earnings": 125965.70
+        },
+        {
+            "name": "Ultimate Marvel vs. Capcom 3",
+            "earnings": 116733.16
+        },
+        {
+            "name": "Under Night In-Birth EXE: Late",
+            "earnings": 6025.76
+        },
+        {
+            "name": "Under Night In-Birth EXE: Late[st]",
+            "earnings": 46553.33
+        },
+        {
+            "name": "Vampire Savior",
+            "earnings": 9185.95
+        }
+    ],
+    "fps": [
+        { 
+            "name": "Battalion 1944", 
+            "earnings": 185654.67
+        },
+        { 
+            "name": "Battlefield 2", 
+            "earnings": 91715.22
+        },
+        { 
+            "name": "Battlefield 4", 
+            "earnings": 245766.46
+        },
+        { 
+            "name": "Black Squad", 
+            "earnings": 8480.72
+        },
+        { 
+            "name": "Call of Duty 2", 
+            "earnings": 66828.51
+        },
+        { 
+            "name": "Call of Duty 4: Modern Warfare", 
+            "earnings": 420331.47
+        },
+        { 
+            "name": "Call of Duty: Advanced Warfare", 
+            "earnings": 2608808.93
+        },
+        { 
+            "name": "Call of Duty: Black Ops", 
+            "earnings": 375793.48
+        },
+        { 
+            "name": "Call of Duty: Black Ops 2", 
+            "earnings": 1467139.25
+        },
+        { 
+            "name": "Call of Duty: Black Ops III", 
+            "earnings": 3939783.29
+        },
+        { 
+            "name": "Call of Duty: Black Ops 4", 
+            "earnings": 6701938.95
+        },
+        { 
+            "name": "Call of Duty: Blackout", 
+            "earnings": 611608.35
+        },
+        { 
+            "name": "Call of Duty: Ghosts", 
+            "earnings": 1594185.25
+        },
+        { 
+            "name": "Call of Duty: Infinite Warfare", 
+            "earnings": 4156205.06
+        },
+        { 
+            "name": "Call of Duty: Modern Warfare", 
+            "earnings": 6592284.50
+        },
+        { 
+            "name": "Call of Duty: Modern Warfare 2", 
+            "earnings": 112860.64
+        },
+        { 
+            "name": "Call of Duty: Modern Warfare 3", 
+            "earnings": 1160815.66
+        },
+        { 
+            "name": "Call of Duty: Warzone", 
+            "earnings": 2300488.97
+        },
+        { 
+            "name": "Call of Duty: World War II", 
+            "earnings": 4559271.00
+        },
+        { 
+            "name": "Counter-Strike", 
+            "earnings": 13494229.57
+        },
+        { 
+            "name": "Counter-Strike Online", 
+            "earnings": 406989.60
+        },
+        { 
+            "name": "Counter-Strike: Source", 
+            "earnings": 3117222.29
+        },
+        { 
+            "name": "Counter-Strike: Global Offensive", 
+            "earnings": 103128629.27
+        },
+        { 
+            "name": "CrossFire", 
+            "earnings": 6448845.02
+        },
+        { 
+            "name": "Diabotical", 
+            "earnings": 48638.81
+        },
+        { 
+            "name": "Evolve", 
+            "earnings": 131509.05
+        },
+        { 
+            "name": "Guns of Boom", 
+            "earnings": 198750.00
+        },
+        { 
+            "name": "Halo 2", 
+            "earnings": 1489362.47
+        },
+        { 
+            "name": "Halo 2 Anniversary", 
+            "earnings": 468705.05
+        },
+        { 
+            "name": "Halo 3", 
+            "earnings": 2158079.40
+        },
+        { 
+            "name": "Halo 4", 
+            "earnings": 430748.76
+        },
+        { 
+            "name": "Halo 5: Guardians", 
+            "earnings": 7071480.97
+        },
+        { 
+            "name": "Halo: Combat Evolved", 
+            "earnings": 299281.00
+        },
+        { 
+            "name": "Halo: Reach", 
+            "earnings": 822089.97
+        },
+        { 
+            "name": "Overwatch", 
+            "earnings": 26049333.28
+        },
+        { 
+            "name": "Painkiller", 
+            "earnings": 1015000.00
+        },
+        { 
+            "name": "Paladins", 
+            "earnings": 2136366.60
+        },
+        { 
+            "name": "Point Blank", 
+            "earnings": 699167.75
+        },
+        { 
+            "name": "Quake 4", 
+            "earnings": 556678.51
+        },
+        { 
+            "name": "Quake Champions", 
+            "earnings": 2409118.25
+        },
+        { 
+            "name": "Quake II", 
+            "earnings": 140179.50
+        },
+        { 
+            "name": "Quake III Arena", 
+            "earnings": 1137832.19
+        },
+        { 
+            "name": "Quake Live", 
+            "earnings": 682294.04
+        },
+        { 
+            "name": "QuakeWorld", 
+            "earnings": 103251.70
+        },
+        { 
+            "name": "Rainbow Six Siege", 
+            "earnings": 12214525.74
+        },
+        { 
+            "name": "S.K.I.L.L. - Special Force 2", 
+            "earnings": 132532.93
+        },
+        { 
+            "name": "ShootMania Storm", 
+            "earnings": 261687.04
+        },
+        { 
+            "name": "Team Fortress 2", 
+            "earnings": 718078.81
+        },
+        { 
+            "name": "Unreal Tournament 2003", 
+            "earnings": 147473.91
+        },
+        { 
+            "name": "Unreal Tournament 2004", 
+            "earnings": 133969.33
+        },
+        { 
+            "name": "Valorant", 
+            "earnings": 1369951.05
+        },
+        { 
+            "name": "Wolfenstein: Enemy Territory", 
+            "earnings": 140963.24
+        },
+        { 
+            "name": "Xonotic", 
+            "earnings": 5489.65
+        }
+    ],
+    "strategy": [
+        { 
+            "name": "Age of Empires", 
+            "earnings": 190075.61
+        },
+        { 
+            "name": "Age of Empires II", 
+            "earnings": 1559438.51
+        },
+        { 
+            "name": "Age of Empires III", 
+            "earnings": 68113.85
+        },
+        { 
+            "name": "Brawl Stars", 
+            "earnings": 94950.00
+        },
+        { 
+            "name": "chess.com", 
+            "earnings": 933290.94
+        },
+        { 
+            "name": "Clash Royale", 
+            "earnings": 3319748.27
+        },
+        { 
+            "name": "Dota Underlords", 
+            "earnings": 26024.18
+        },
+        { 
+            "name": "Farming Simulator 19", 
+            "earnings": 158361.30
+        },
+        { 
+            "name": "Lichess", 
+            "earnings": 1159812.91
+        },
+        { 
+            "name": "Pokemon VGC", 
+            "earnings": 211500.00
+        },
+        { 
+            "name": "StarCraft II", 
+            "earnings": 33914062.96
+        },
+        { 
+            "name": "StarCraft: Brood War", 
+            "earnings": 8298908.43
+        },
+        { 
+            "name": "Teamfight Tactics", 
+            "earnings": 819313.65
+        },
+        { 
+            "name": "WarCraft III", 
+            "earnings": 5811479.73
+        },
+        { 
+            "name": "WarCraft III: Reforged", 
+            "earnings": 354595.29
+        },
+        { 
+            "name": "Windjammers", 
+            "earnings": 4172.16
+        },
+        { 
+            "name": "World in Conflict", 
+            "earnings": 293338.23
+        },
+        { 
+            "name": "World of Tanks", 
+            "earnings": 3656496.59
+        }
+    ],
+    "moba": [
+        { 
+            "name": "Arena of Valor", 
+            "earnings": 15228710.62
+        },
+        { 
+            "name": "Battlerite", 
+            "earnings": 65173.45
+        },
+        { 
+            "name": "Bloodline Champions", 
+            "earnings": 41905.32
+        },
+        { 
+            "name": "Defense of the Ancients", 
+            "earnings": 857420.65
+        },
+        { 
+            "name": "Dota 2", 
+            "earnings": 227914706.51
+        },
+        { 
+            "name": "Heroes of Newerth", 
+            "earnings": 2915206.56
+        },
+        { 
+            "name": "Heroes of the Storm", 
+            "earnings": 18188482.65
+        },
+        { 
+            "name": "League of Legends", 
+            "earnings": 81343448.94
+        },
+        { 
+            "name": "Minecraft", 
+            "earnings": 329539.15
+        },
+        { 
+            "name": "SMITE", 
+            "earnings": 8640112.75
+        },
+        { 
+            "name": "Vainglory", 
+            "earnings": 797421.19
+        }
+    ],
+    "rpg": [
+        { 
+            "name": "Blade & Soul", 
+            "earnings": 409355.52
+        },
+        { 
+            "name": "Guild Wars 2", 
+            "earnings": 476005.50
+        },
+        { 
+            "name": "Old School Runescape", 
+            "earnings": 422504.20
+        },
+        { 
+            "name": "Red Stone", 
+            "earnings": 58000.00
+        },
+        { 
+            "name": "Stardew Valley", 
+            "earnings": 54250.00
+        },
+        { 
+            "name": "World of WarCraft", 
+            "earnings": 4957837.61
+        }
+    ],
+    "racing": [
+        { 
+            "name": "Assetto Corsa", 
+            "earnings": 329366.40
+        },
+        { 
+            "name": "Assetto Corsa Competizione", 
+            "earnings": 5338.00
+        },
+        { 
+            "name": "Forza Motorsport 2", 
+            "earnings": 222000.00
+        },
+        { 
+            "name": "Forza Motorsport 7", 
+            "earnings": 820200.00
+        },
+        { 
+            "name": "iRacing.com", 
+            "earnings": 1208129.43
+        },
+        { 
+            "name": "KartRider", 
+            "earnings": 567366.35
+        },
+        { 
+            "name": "Project Cars", 
+            "earnings": 67908.21
+        },
+        { 
+            "name": "Project Cars 2", 
+            "earnings": 66150.00
+        },
+        { 
+            "name": "Project Gotham Racing 3", 
+            "earnings": 297286.85
+        },
+        { 
+            "name": "RaceRoom Racing Experience", 
+            "earnings": 103213.70
+        },
+        { 
+            "name": "rFactor 2", 
+            "earnings": 1224920.26
+        },
+        { 
+            "name": "Trackmania (2020)", 
+            "earnings": 55048.38
+        },
+        { 
+            "name": "Trackmania 2: Canyon", 
+            "earnings": 22098.74
+        },
+        { 
+            "name": "TrackMania 2: Stadium", 
+            "earnings": 198363.85
+        },
+        { 
+            "name": "TrackMania Nations Forever", 
+            "earnings": 167386.65
+        }
+    ],
+    "sports": [
+        { 
+            "name": "FIFA 06", 
+            "earnings": 112464.53
+        },
+        { 
+            "name": "FIFA 07", 
+            "earnings": 237812.23
+        },
+        { 
+            "name": "FIFA 08", 
+            "earnings": 207129.94
+        },
+        { 
+            "name": "FIFA 09", 
+            "earnings": 121618.34
+        },
+        { 
+            "name": "FIFA 10", 
+            "earnings": 117026.71
+        },
+        { 
+            "name": "FIFA 11", 
+            "earnings": 93983.77
+        },
+        { 
+            "name": "FIFA 12", 
+            "earnings": 54431.52
+        },
+        { 
+            "name": "FIFA 13", 
+            "earnings": 458427.82
+        },
+        { 
+            "name": "FIFA 14", 
+            "earnings": 96347.81
+        },
+        { 
+            "name": "FIFA 15", 
+            "earnings": 144373.99
+        },
+        { 
+            "name": "FIFA 16", 
+            "earnings": 117828.11
+        },
+        { 
+            "name": "FIFA 17", 
+            "earnings": 1482612.63
+        },
+        { 
+            "name": "FIFA 18", 
+            "earnings": 2233697.69
+        },
+        { 
+            "name": "FIFA 19", 
+            "earnings": 3242642.34
+        },
+        { 
+            "name": "FIFA 20", 
+            "earnings": 1144673.72
+        },
+        { 
+            "name": "Rocket League", 
+            "earnings": 9171818.72
+        }
+    ],
+    "card": [
+        { 
+            "name": "Artifact", 
+            "earnings": 119168.54
+        },
+        { 
+            "name": "Gwent", 
+            "earnings": 841757.17
+        },
+        { 
+            "name": "Hand of the Gods", 
+            "earnings": 94434.20
+        },
+        { 
+            "name": "Hearthstone", 
+            "earnings": 23108378.24
+        },
+        { 
+            "name": "Legends of Runeterra", 
+            "earnings": 118481.03
+        },
+        { 
+            "name": "Magic: The Gathering Arena", 
+            "earnings": 5512000.00
+        },
+        { 
+            "name": "Magic: The Gathering Online", 
+            "earnings": 1218000.00
+        },
+        { 
+            "name": "Shadowverse", 
+            "earnings": 3211177.09
+        },
+        { 
+            "name": "Yu-Gi-Oh! Duel Links", 
+            "earnings": 48746.72
+        }
+    ],
+    "br": [
+        { 
+            "name": "Apex Legends", 
+            "earnings": 4527121.69
+        },
+        { 
+            "name": "Fall Guys", 
+            "earnings": 201000.00
+        },
+        { 
+            "name": "Fortnite", 
+            "earnings": 97763025.01
+        },
+        { 
+            "name": "Free Fire", 
+            "earnings": 1006392.23
+        },
+        { 
+            "name": "H1Z1", 
+            "earnings": 2067122.00
+        },
+        { 
+            "name": "PLAYERUNKNOWN'S BATTLEGROUND Mobile", 
+            "earnings": 3839853.07
+        },
+        { 
+            "name": "PLAYERUNKNOWN'S BATTLEGROUND", 
+            "earnings": 24175428.57
+        },
+        { 
+            "name": "Radical Heights", 
+            "earnings": 120000.00
+        },
+        { 
+            "name": "Ring of Elysium", 
+            "earnings": 70000.00
+        },
+        { 
+            "name": "Rocket Arena", 
+            "earnings": 100000.00
+        }
+    ],
+    "tps": [
+        { 
+            "name": "Gears 5", 
+            "earnings": 1223000.00
+        },
+        { 
+            "name": "Gears of War", 
+            "earnings": 252195.57
+        },
+        { 
+            "name": "Gears of War 2", 
+            "earnings": 135000.00
+        },
+        { 
+            "name": "Gears of War 4", 
+            "earnings": 3087285.00
+        },
+        { 
+            "name": "Gears of War: Ultimate Edition", 
+            "earnings": 170000.00
+        }
+    ]
+}
